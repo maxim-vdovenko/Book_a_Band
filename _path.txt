@@ -3,3 +3,11 @@ http://smarthead.net/work/testTask/index.html
 
 
 
+cd /Library/WebServer/Documents/BookBand
+git status
+git add .
+git commit
+
+
+
+
